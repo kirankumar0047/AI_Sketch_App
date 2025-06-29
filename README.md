@@ -1,4 +1,7 @@
-# 🎨 AI Sketch App — Intelligent Drawing with Voice, Image & Camera Input 🧠
+🎨 AI Sketch App — Intelligent Drawing with Voice, Image & Camera Input:
+
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Kolla%20KiranKumar-red)
+---
 
 A next-gen AI-powered app that transforms **images, webcam feed**, or **voice prompts** into intelligent sketches in various styles. Supports **multi-object detection**, **depth-aware 3D sketches**, and **real-time drawing**, all with a clean **Streamlit** UI.
 
